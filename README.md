@@ -1,0 +1,2 @@
+# Tarea5
+Actividad 1: 1. Realizar un tablero de ajedrez que contenga los 64 cuadrados (en 8 filas y 8 columnas) con su color correspondiente (blanco o negro).  Actividad 2: 1. En una ventana de 500x500 se realizan 25 círculos de diferente tamaño y diferente color. 2. Note que el círculo más exterior (el más grande) es de color rojo. El segundo más grande es de color verde y el que sigue es de color azul. La secuencia de colores se repite conforme se van dibujando los círculos más pequeños. 3. Note que la separación en pixeles entre círculos adyacentes es igual en todos.
